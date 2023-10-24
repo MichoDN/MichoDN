@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MichoDN
-- 👀 I’m interested in Front/Backend development
-- 🌱 I’m currently learning ReactJS & NodeJS. 
-- 📩 Emailme @michaeldn03@gmail.com if you are interested in my profile :)
+- 👀 Fullstack developmer
+- 🌱 ReactJS & NodeJS. 
+- 📩 @michaeldn03@gmail.com
