@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MichoDN
-- 👀 Fullstack developmer
-- 🌱 ReactJS & NodeJS. 
+- 👀 Fullstack developer
+- 🌱 ReactJS & NodeJS.
 - 📩 @michaeldn03@gmail.com
