@@ -5,5 +5,5 @@ not just in programming but as a person, seeking the best version of myself.
 
 "It's unfortunate to age without realizing the full potential we can cultivate."
 
-Contact: @michaeldn03@gmail.com
+Contact: michaeldn03@gmail.com
 Portolio: https://michdnportfolio.netlify.app/
