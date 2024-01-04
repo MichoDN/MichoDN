@@ -1,4 +1,4 @@
-Hi, I'm a fullstack web developer. 
+Hi 👋, I'm a fullstack web developer. 
 
 My skills are focused in ReactJS and NodeJS, I am continuously learning and growing, 
 not just in programming but as a person, seeking the best version of myself.
